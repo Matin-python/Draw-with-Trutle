@@ -57,7 +57,8 @@ turtle-line-pattern/
 ## Example Output
 
 The program generates a colorful geometric pattern consisting of multiple intersecting lines with randomly chosen colors.
-![Turtle Pattern](output.png)
+
+![Turtle Pattern](image.png)
 
 ## Customization
 
